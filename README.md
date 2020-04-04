@@ -16,12 +16,14 @@ This example flow and Node-RED Dashboard might be useful as part of a [Call for 
 ---
 ### A flow that displays Earthquake Alerts on a map
 
-- Display a Notification Alert if there is a Earthquake > Megnitude 5
+- Display a Notification Alert if there is a Earthquake > Magnitude 5
 - Click on the red icon to zoom to that epicenter on the Earth.
 
 ![Earthquake Alert Dashboard](screenshots/EarthquakeAlert-dashboard.png?raw=true "Earthquake Dashboard")
 
 ![Earthquake Alert flow](screenshots/Earthquake-flow.png?raw=true "Earthquake flow")
+
+![Earthquake Alert LosAngeles](screenshots/EarthquakeAlert-LosAngeles.png?raw=true "Earthquake Dashboard")
 ---
 
 ### Authors
