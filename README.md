@@ -11,10 +11,11 @@ This example flow and Node-RED Dashboard might be useful as part of a [Call for 
 - [Add the following nodes](https://nodered.org/docs/user-guide/runtime/adding-nodes) to your Node-RED palette
   - [node-red-dashboard](https://flows.nodered.org/node/node-red-dashboard)
   - [node-red-contrib-web-worldmap](https://flows.nodered.org/node/node-red-contrib-web-worldmap)
+  - [node-red-node-ui-table](https://flows.nodered.org/node/node-red-node-ui-table)
 
 ## Node-RED flow in this repository:
 
-- Import the [earthquakes flow](earthquakes.json) 
+- Import the [earthquakes flow](earthquakes.json)
 
 ---
 ### A flow that displays Earthquake Alerts on a map
@@ -26,7 +27,7 @@ This example flow and Node-RED Dashboard might be useful as part of a [Call for 
 
 ![Earthquake Alert flow](screenshots/Earthquake-flow.png?raw=true "Earthquake flow")
 
-![Earthquake Alert LosAngeles](screenshots/EarthquakeAlert-LosAngeles.png?raw=true "Earthquake Dashboard")
+![Earthquake Alert LosAngeles](screenshots/EarthquakeAlert-PuertoRico.png?raw=true "Earthquake Dashboard")
 ---
 
 ### Authors
