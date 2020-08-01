@@ -5,6 +5,8 @@ Plot a list of earthquakes from the [USGS earthquake public API](http://earthqua
 
 This example flow and Node-RED Dashboard might be useful as part of a [Call for Code](https://developer.ibm.com/callforcode/) Natural Disaster solution.
 
+For additional earthquake dashboards, learn about the [OpenEEW Early Earthquake Warning Node-RED examples](https://github.com/openeew/openeew-nodered)
+
 ### Prerequistes
 
 - [Install Node-RED](https://nodered.org/docs/getting-started/) on your system or in the cloud
